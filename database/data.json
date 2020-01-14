@@ -1,0 +1,80 @@
+{
+  "parking_slot": 6,
+  "parking_car": 6,
+  "slot": [
+    {
+      "car_number": "KA-09-HH-0987",
+      "slot_number": 1
+    },
+    {
+      "car_number": "KA-01-HH-9999",
+      "slot_number": 2
+    },
+    {
+      "car_number": "CA-09-IO-1111",
+      "slot_number": 3
+    },
+    {
+      "car_number": "KA-01-HH-7777",
+      "slot_number": 4
+    },
+    {
+      "car_number": "KA-01-HH-2701",
+      "slot_number": 5
+    },
+    {
+      "car_number": "KA-01-P-333",
+      "slot_number": 6
+    }
+  ],
+  "status": [
+    {
+      "status": "Created parking lot with 6 slots"
+    },
+    {
+      "status": "Allocated slot number: 1"
+    },
+    {
+      "status": "Allocated slot number: 2"
+    },
+    {
+      "status": "Allocated slot number: 3"
+    },
+    {
+      "status": "Allocated slot number: 4"
+    },
+    {
+      "status": "Allocated slot number: 5"
+    },
+    {
+      "status": "Allocated slot number: 6"
+    },
+    {
+      "status": "Registration number: KA-01-HH-3141 with Slot Number 6 is free with Charge 30"
+    },
+    {
+      "status": "Allocated slot number: 6"
+    },
+    {
+      "status": "Sorry, parking lot is full"
+    },
+    {
+      "status": "Registration number: KA-01-HH-1234 with Slot Number 1 is free with Charge 30"
+    },
+    {
+      "status": "Registration number: KA-01-BB-0001 with Slot Number 3 is free with Charge 50"
+    },
+    {
+      "status": "Registration number DL-12-AA-9999 not found"
+    },
+    {
+      "status": "Allocated slot number: 1"
+    },
+    {
+      "status": "Allocated slot number: 3"
+    },
+    {
+      "status": "Sorry, parking lot is full"
+    }
+  ]
+}
